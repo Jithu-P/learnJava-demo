@@ -1,2 +1,4 @@
 This file is to make a change in the cloned repository. After creation of this file, 
 all the files will be pushed to the remote repository again. 
+
+Change 2: to pass the credentials through git bash, after signing out of git hub account
